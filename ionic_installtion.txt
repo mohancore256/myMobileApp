@@ -1,0 +1,9 @@
+after installing node and npm
+open cmd type -- npm install -g ionic cordova
+once the instalation is done scussefully -- in cmd type ionic when then will give you the version of ionic
+
+once ionic is installed. use below commands
+ionic start
+project name
+select frame work type(Angular)
+template(selected blank)

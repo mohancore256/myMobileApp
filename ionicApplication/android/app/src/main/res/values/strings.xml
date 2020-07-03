@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ionicApplication</string>
+    <string name="title_activity_main">ionicApplication</string>
+    <string name="package_name">ionic.andriod</string>
+    <string name="custom_url_scheme">ionic.andriod</string>
+</resources>
